@@ -1,13 +1,10 @@
-# ¡Hola, mundo! 👋
+# Hola, soy Franmary 👋
 
-Bienvenidos a mi perfil.
+Estudiante de **Ingeniería en Informática** en la UNEG · Apasionada por el desarrollo, el diseño y la creatividad.
 
-### 💻 Acerca de mí
-* 🌱 Estudiante apasionada por la tecnología y la programación.
-* 🚀 Construyendo mis primeros proyectos y aprendiendo día a día.
+### 💻 Lo que estoy aprendiendo y construyendo
+* **Lenguajes y fundamentos:** Python, C/C++, lógica y algoritmos
+* **Diseño y creatividad:** Ilustración, identidad visual y proyectos creativos
 
-### 🛠️ Tecnologías y herramientas
-Aquí puedes listar lenguajes como Python, C++, HTML, o herramientas que uses.
-
-### 📊 Mis estadísticas
-*(Puedes agregar aquí después tus tarjetas de estadísticas de GitHub).*
+### 📌 Enlaces
+* [Mi perfil en GitHub](https://github.com/bermudezfranmary-byte-)
